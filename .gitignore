@@ -1,0 +1,35 @@
+# Eclipse project files
+.metadata/
+.classpath
+.project
+.settings/
+
+# Compiled files
+bin/
+target/
+
+# Test output
+test-output/
+
+# Maven build files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# TestNG configuration files
+testng.xml
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Logs
+log/
